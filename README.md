@@ -45,6 +45,7 @@ The project is a log ingestor and query interface system designed to handle larg
   - Docker is used to manage different images and containers.
   - Docker Compose simplifies multi-container Docker applications.
 
-![image] (https://github.com/Sumitsh28/images/blob/2c79c673f7354ddbeff5abc33024719b0bcbaffe/ingestion.png?raw=true)
-![image] (https://raw.githubusercontent.com/Sumitsh28/images/424bdedb72f050f2729adf43272e12e685ee7d8e/post.png)
-![image] (https://raw.githubusercontent.com/Sumitsh28/images/424bdedb72f050f2729adf43272e12e685ee7d8e/get.png)
+![Ingestion Flow](https://github.com/Sumitsh28/images/blob/2c79c673f7354ddbeff5abc33024719b0bcbaffe/ingestion.png?raw=true)
+![POST Request](https://raw.githubusercontent.com/Sumitsh28/images/424bdedb72f050f2729adf43272e12e685ee7d8e/post.png)
+![GET Request](https://raw.githubusercontent.com/Sumitsh28/images/424bdedb72f050f2729adf43272e12e685ee7d8e/get.png)
+
